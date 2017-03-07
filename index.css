@@ -1,6 +1,15 @@
 body {
-    margin: 60px auto;
-    width: 70%;
+  margin: 60px auto;
+  width: 70%;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  background-color: #BDBDBD;
+}
+
+header {
+  padding: 20px 0;
+}
+
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
